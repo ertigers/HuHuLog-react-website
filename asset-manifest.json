@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HuHuLog-react-website/static/css/main.d871bd34.chunk.css",
+    "main.js": "/HuHuLog-react-website/static/js/main.b97a7a00.chunk.js",
+    "main.js.map": "/HuHuLog-react-website/static/js/main.b97a7a00.chunk.js.map",
+    "runtime-main.js": "/HuHuLog-react-website/static/js/runtime-main.bfcbb058.js",
+    "runtime-main.js.map": "/HuHuLog-react-website/static/js/runtime-main.bfcbb058.js.map",
+    "static/js/2.1a48b28a.chunk.js": "/HuHuLog-react-website/static/js/2.1a48b28a.chunk.js",
+    "static/js/2.1a48b28a.chunk.js.map": "/HuHuLog-react-website/static/js/2.1a48b28a.chunk.js.map",
+    "index.html": "/HuHuLog-react-website/index.html",
+    "static/css/main.d871bd34.chunk.css.map": "/HuHuLog-react-website/static/css/main.d871bd34.chunk.css.map",
+    "static/js/2.1a48b28a.chunk.js.LICENSE.txt": "/HuHuLog-react-website/static/js/2.1a48b28a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfcbb058.js",
+    "static/js/2.1a48b28a.chunk.js",
+    "static/css/main.d871bd34.chunk.css",
+    "static/js/main.b97a7a00.chunk.js"
+  ]
+}
